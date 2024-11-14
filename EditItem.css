@@ -1,0 +1,20 @@
+/* src/styles/EditItem.css */
+.edit-item {
+    padding: 20px;
+  }
+  
+  .edit-item form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .edit-item input {
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  .edit-item button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  

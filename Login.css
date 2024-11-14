@@ -1,0 +1,20 @@
+/* src/styles/Login.css */
+.login {
+    padding: 20px;
+  }
+  
+  .login form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login input {
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  .login button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
